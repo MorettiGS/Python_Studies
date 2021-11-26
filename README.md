@@ -1,7 +1,7 @@
 # Python Studies
-Codes from an introduction course to the language Python
+Codes from an introduction course to the Python language
 
-### Link to the course:
+### Links to the course:
 
 First part:
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
